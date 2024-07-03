@@ -1,0 +1,17 @@
+{
+  "name": "hello-world-arweave",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@irys/sdk": "^0.2.6",
+    "arweave": "^1.15.1"
+  }
+}
